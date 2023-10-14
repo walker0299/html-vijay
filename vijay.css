@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color:red;
+    size: 100px;
+    background-color: rgb(245, 245, 245)
+     ;
+    
+    
+}
+h2 {
+    color: black;
+}
+img {
+    width: 10%;
+    height: auto;
+   background-color: aliceblue;
+  }
